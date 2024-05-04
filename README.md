@@ -12,6 +12,7 @@ GeminiChat: An AI ChatBot Developed by Gemini SDK Using Jetpack Compose
 
 - Voyager
 - Compose Markdown
+- Gemini Client
 
 ## Getting Started
 
